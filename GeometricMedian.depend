@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1591634500 source:d:\codeblocks projects\geometricmedian\point.cpp
+	"Point.h"
+
+1591720722 d:\codeblocks projects\geometricmedian\point.h
+	<iostream>
+	<vector>
+
+1591355174 source:d:\codeblocks projects\geometricmedian\main.cpp
+	"Point.h"
+	<string.h>
+	<math.h>
+	<exception>
+	<fstream>
+	<sstream>
+	<iterator>
+
